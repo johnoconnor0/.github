@@ -92,8 +92,6 @@ This project exemplifies my approach: combining deep technical expertise with st
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johnoconnor0&layout=compact&theme=default&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=johnoconnor0&theme=default&hide_border=true)
-
 </div>
 
 ---
