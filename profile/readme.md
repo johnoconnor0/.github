@@ -15,7 +15,7 @@
 
 ## About Me
 
-I lead the design and development team at Weblifter as Managing Director and Lead Developer, where I focus on creating competitive, scalable solutions that drive real business value. With a background combining Computer Science and Economics from The University of Queensland, I bridge the gap between technical excellence and strategic business outcomes.
+I lead the design and development team at Web Lifter as Managing Director and Lead Developer, where I focus on creating competitive, scalable solutions that drive real business value.
 
 My expertise spans full-stack development, cloud architecture, and technical SEO, with a particular focus on delivering enterprise-grade solutions that streamline operations and reduce costs for businesses across Australia and beyond.
 
