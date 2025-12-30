@@ -33,21 +33,21 @@ My expertise spans full-stack development, cloud architecture, and technical SEO
 
 ## GitHub Stats
 
-<table>
+<table style="border-radius: 8px; border: 1px solid #e1e4e8; border-collapse: separate; overflow: hidden;">
 <tr>
-<td width="50%">
+<td width="50%" style="border: none; background: transparent; padding: 12px;">
 
 ![GitHub Stats](https://john-oconnor.vercel.app/api/readme/github-stats?theme=light&show=contributions,commits,prs,stars,repos&v=2)
 
 </td>
-<td width="50%">
+<td width="50%" style="border: none; background: transparent; padding: 12px;">
 
 ![GitHub Streak](https://john-oconnor.vercel.app/api/readme/streak?theme=light&v=2)
 
 </td>
 </tr>
 <tr>
-<td colspan="2" align="center">
+<td colspan="2" align="center" style="border: none; background: transparent; padding: 12px;">
 
 ![Top Languages](https://john-oconnor.vercel.app/api/readme/coding-stats?theme=light&langs_count=8&v=2)
 
@@ -59,45 +59,64 @@ My expertise spans full-stack development, cloud architecture, and technical SEO
 
 ## Technology Stack
 
-<table>
+<table style="border-radius: 8px; border: 1px solid #e1e4e8; border-collapse: separate; overflow: hidden; width: 100%;">
 <tr>
-<td width="100%" colspan="2">
+<td width="30%" style="border: none; background: transparent; padding: 16px; vertical-align: top;">
 
 **All Skills**
+
+</td>
+<td width="70%" style="border: none; background: transparent; padding: 16px;">
 
 ![Skills](https://john-oconnor.vercel.app/api/readme/skill-badges?style=for-the-badge&per_line=8&v=2)
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td style="border: none; background: transparent; padding: 16px; vertical-align: top;">
 
 **Cloud & Infrastructure**
+
+</td>
+<td style="border: none; background: transparent; padding: 16px;">
 
 ![Cloud Skills](https://john-oconnor.vercel.app/api/readme/skill-badges?category=Cloud%20%26%20Infrastructure&style=for-the-badge&v=2)
 
 </td>
-<td width="50%">
+</tr>
+<tr>
+<td style="border: none; background: transparent; padding: 16px; vertical-align: top;">
 
 **Development Platforms**
+
+</td>
+<td style="border: none; background: transparent; padding: 16px;">
 
 ![CMS Skills](https://john-oconnor.vercel.app/api/readme/skill-badges?category=Development%20Platforms&style=for-the-badge&v=2)
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td style="border: none; background: transparent; padding: 16px; vertical-align: top;">
 
 **Languages & Frameworks**
+
+</td>
+<td style="border: none; background: transparent; padding: 16px;">
 
 ![Languages](https://john-oconnor.vercel.app/api/readme/skill-badges?category=Languages%20%26%20Frameworks&style=for-the-badge&v=2)
 
 </td>
-<td width="50%">
+</tr>
+<tr>
+<td style="border: none; background: transparent; padding: 16px; vertical-align: top;">
 
 **Developer Tools**
 
-![Dev Tools](https://john-oconnor.vercel.app/api/readme/skill-badges?category=Developer%20Tools&style=for-the-badge&v=2)
+</td>
+<td style="border: none; background: transparent; padding: 16px;">
+
+![Dev Tools](https://john-oconnor.vercel.app/api/readme/skill-badges?category=Developer%20Tools&style=for-the-badge&v=3)
 
 </td>
 </tr>
@@ -110,7 +129,7 @@ My expertise spans full-stack development, cloud architecture, and technical SEO
 <div align="center">
 
 <!-- 3D Contribution Skyline -->
-![2025 Contributions](https://john-oconnor.vercel.app/api/readme/activity-skyline?year=2025&theme=light&width=800&v=2)
+![2025 Contributions](https://john-oconnor.vercel.app/api/readme/activity-skyline?year=2025&theme=light&width=800&v=4)
 
 </div>
 
