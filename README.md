@@ -124,7 +124,7 @@ I'm always interested in discussing:
 **Get in touch:**
 - Business inquiries: [Weblifter](https://weblifter.com.au)
 - Professional network: [LinkedIn](https://www.linkedin.com/in/john-oconnor0/)
-- Portfolio: [johnoconnor.dev](https://john-oconnor.vercel.app)
+- Portfolio: [https://john-oconnor.vercel.app](https://john-oconnor.vercel.app)
 
 ---
 
