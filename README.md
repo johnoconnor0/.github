@@ -33,27 +33,13 @@ My expertise spans full-stack development, cloud architecture, and technical SEO
 
 ## GitHub Stats
 
-<table style="border-radius: 8px; border: 1px solid #e1e4e8; border-collapse: separate; overflow: hidden; width: 100%;">
-<tr>
-<td width="50%" style="border: none; background: transparent; padding: 12px;">
+| GitHub Stats                                                                                                                          | GitHub Streak                                                                        |
+| ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| ![GitHub Stats](https://john-oconnor.vercel.app/api/readme/github-stats?theme=light\&show=contributions,commits,prs,stars,repos\&v=2) | ![GitHub Streak](https://john-oconnor.vercel.app/api/readme/streak?theme=light\&v=2) |
 
-![GitHub Stats](https://john-oconnor.vercel.app/api/readme/github-stats?theme=light&show=contributions,commits,prs,stars,repos&v=2)
-
-</td>
-<td width="50%" style="border: none; background: transparent; padding: 12px;">
-
-![GitHub Streak](https://john-oconnor.vercel.app/api/readme/streak?theme=light&v=2)
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center" style="border: none; background: transparent; padding: 12px;">
-
-![Top Languages](https://john-oconnor.vercel.app/api/readme/coding-stats?theme=light&langs_count=8&v=2)
-
-</td>
-</tr>
-</table>
+| Top Languages                                                                                             |
+| --------------------------------------------------------------------------------------------------------- |
+| ![Top Languages](https://john-oconnor.vercel.app/api/readme/coding-stats?theme=light\&langs_count=8\&v=2) |
 
 ---
 
