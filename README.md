@@ -7,10 +7,10 @@
 **Driving Business Growth Through Technology Leadership & Innovation**
 
 <!-- Custom Social Badges -->
-![Social Links](https://john-oconnor.vercel.app/api/readme/social-badge?style=for-the-badge)
+![Social Links](https://john-oconnor.vercel.app/api/readme/social-badge?style=for-the-badge&v=2)
 
 <!-- Profile Views Counter -->
-![Profile Views](https://john-oconnor.vercel.app/api/readme/views?track=true&color=blue&label=Profile%20Views)
+![Profile Views](https://john-oconnor.vercel.app/api/readme/views?track=true&color=blue&label=Profile%20Views&v=2)
 
 </div>
 
@@ -36,13 +36,13 @@ My expertise spans full-stack development, cloud architecture, and technical SEO
 <div align="center">
 
 <!-- Custom GitHub Stats Card -->
-![GitHub Stats](https://john-oconnor.vercel.app/api/readme/github-stats?theme=light&show=contributions,commits,prs,stars,repos)
+![GitHub Stats](https://john-oconnor.vercel.app/api/readme/github-stats?theme=light&show=contributions,commits,prs,stars,repos&v=2)
 
 <!-- Custom Streak Card -->
-![GitHub Streak](https://john-oconnor.vercel.app/api/readme/streak?theme=light)
+![GitHub Streak](https://john-oconnor.vercel.app/api/readme/streak?theme=light&v=2)
 
 <!-- Custom Coding Stats -->
-![Top Languages](https://john-oconnor.vercel.app/api/readme/coding-stats?theme=light&langs_count=8)
+![Top Languages](https://john-oconnor.vercel.app/api/readme/coding-stats?theme=light&langs_count=8&v=2)
 
 </div>
 
@@ -53,7 +53,7 @@ My expertise spans full-stack development, cloud architecture, and technical SEO
 <div align="center">
 
 <!-- Custom Skill Badges - All Categories -->
-![Skills](https://john-oconnor.vercel.app/api/readme/skill-badges?style=for-the-badge&per_line=6)
+![Skills](https://john-oconnor.vercel.app/api/readme/skill-badges?style=for-the-badge&per_line=6&v=2)
 
 </div>
 
@@ -64,7 +64,7 @@ My expertise spans full-stack development, cloud architecture, and technical SEO
 <br/>
 <div align="center">
 
-![Cloud Skills](https://john-oconnor.vercel.app/api/readme/skill-badges?category=Cloud%20%26%20Infrastructure&style=for-the-badge)
+![Cloud Skills](https://john-oconnor.vercel.app/api/readme/skill-badges?category=Cloud%20%26%20Infrastructure&style=for-the-badge&v=2)
 
 </div>
 </details>
@@ -74,7 +74,7 @@ My expertise spans full-stack development, cloud architecture, and technical SEO
 <br/>
 <div align="center">
 
-![CMS Skills](https://john-oconnor.vercel.app/api/readme/skill-badges?category=Development%20Platforms&style=for-the-badge)
+![CMS Skills](https://john-oconnor.vercel.app/api/readme/skill-badges?category=Development%20Platforms&style=for-the-badge&v=2)
 
 </div>
 </details>
@@ -84,7 +84,7 @@ My expertise spans full-stack development, cloud architecture, and technical SEO
 <br/>
 <div align="center">
 
-![Dev Tools](https://john-oconnor.vercel.app/api/readme/skill-badges?category=Developer%20Tools&style=for-the-badge)
+![Dev Tools](https://john-oconnor.vercel.app/api/readme/skill-badges?category=Developer%20Tools&style=for-the-badge&v=2)
 
 </div>
 </details>
@@ -96,7 +96,7 @@ My expertise spans full-stack development, cloud architecture, and technical SEO
 <div align="center">
 
 <!-- 3D Contribution Skyline -->
-![2025 Contributions](https://john-oconnor.vercel.app/api/readme/activity-skyline?year=2025&theme=light&width=800)
+![2025 Contributions](https://john-oconnor.vercel.app/api/readme/activity-skyline?year=2025&theme=light&width=800&v=2)
 
 </div>
 
@@ -107,7 +107,7 @@ My expertise spans full-stack development, cloud architecture, and technical SEO
 <div align="center">
 
 <!-- Custom Article Cards -->
-![Latest Articles](https://john-oconnor.vercel.app/api/readme/article-card?count=3&theme=light)
+![Latest Articles](https://john-oconnor.vercel.app/api/readme/article-card?count=3&theme=light&v=2)
 
 </div>
 
