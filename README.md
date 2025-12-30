@@ -107,7 +107,7 @@ My expertise spans full-stack development, cloud architecture, and technical SEO
 <div align="center">
 
 <!-- Custom Article Cards -->
-![Latest Articles](https://john-oconnor.vercel.app/api/readme/article-card?count=3&theme=light&v=2)
+![Latest Articles](https://john-oconnor.vercel.app/api/readme/article-card?count=3&theme=light&v=3)
 
 </div>
 
