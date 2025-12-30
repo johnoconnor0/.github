@@ -33,33 +33,13 @@ My expertise spans full-stack development, cloud architecture, and technical SEO
 
 ## GitHub Stats
 
-<div style="display: flex; flex-wrap: wrap; gap: 12px;">
-
-  <div style="flex: 1 1 360px;">
-    <img
-      alt="GitHub Stats"
-      src="https://john-oconnor.vercel.app/api/readme/github-stats?theme=light&show=contributions,commits,prs,stars,repos&v=2"
-      style="width: 100%; border-radius: 8px; border: 1px solid #e1e4e8;"
-    />
-  </div>
-
-  <div style="flex: 1 1 360px;">
-    <img
-      alt="GitHub Streak"
-      src="https://john-oconnor.vercel.app/api/readme/streak?theme=light&v=2"
-      style="width: 100%; border-radius: 8px; border: 1px solid #e1e4e8;"
-    />
-  </div>
-
-  <div style="flex: 1 1 100%;">
-    <img
-      alt="Top Languages"
-      src="https://john-oconnor.vercel.app/api/readme/coding-stats?theme=light&langs_count=8&v=2"
-      style="width: 100%; border-radius: 8px; border: 1px solid #e1e4e8;"
-    />
-  </div>
-
+<div align="center">
+  <img width="49%" alt="GitHub Stats" src="https://john-oconnor.vercel.app/api/readme/github-stats?theme=light&show=contributions,commits,prs,stars,repos&v=2" />
+  <img width="49%" alt="GitHub Streak" src="https://john-oconnor.vercel.app/api/readme/streak?theme=light&v=2" />
+  <br />
+  <img width="100%" alt="Top Languages" src="https://john-oconnor.vercel.app/api/readme/coding-stats?theme=light&langs_count=8&v=2" />
 </div>
+
 
 ---
 
