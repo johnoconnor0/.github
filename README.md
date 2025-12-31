@@ -29,6 +29,8 @@ My expertise spans full-stack development, cloud architecture, and technical SEO
 - E-commerce Platform Development
 - Project Management & Team Leadership
 
+---
+
 ![Skills](https://john-oconnor.vercel.app/api/readme/skill-badges?style=for-the-badge&per_line=8&v=2)
 
 ---
