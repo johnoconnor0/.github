@@ -2,9 +2,7 @@
 
 # John O'Connor
 
-### Lead Developer & Managing Director at Weblifter
-
-**Driving Business Growth Through Technology Leadership & Innovation**
+**Driving Business Growth Through Technology & Innovation**
 
 <!-- Custom Social Badges -->
 ![Social Links](https://john-oconnor.vercel.app/api/readme/social-badge?style=for-the-badge&v=2)
@@ -18,16 +16,16 @@
 
 ## About Me
 
-I lead the design and development team at Web Lifter as Managing Director and Lead Developer, where I focus on creating competitive, scalable solutions that drive real business value.
+I’m a web and software developer who enjoys building clean, reliable digital experiences with a practical, solutions-first mindset. I like turning messy requirements into simple, intuitive interfaces and well-structured systems, with a focus on performance, maintainability, and thoughtful UX details. 
 
-My expertise spans full-stack development, cloud architecture, and technical SEO, with a particular focus on delivering enterprise-grade solutions that streamline operations and reduce costs for businesses across Australia and beyond.
+In my work, I blend technical depth with a strong sense of what users actually need. I move between front-end polish and back-end logic, and I take pride in shipping work that’s both robust and easy to evolve. Beyond day-to-day delivery, I’m always looking for smarter patterns, better tooling, and small improvements that compound over time.
 
 **Core Focus Areas:**
 - Enterprise Software Architecture & Integration
 - Cloud Infrastructure (AWS, Firebase, Azure, GCP)
-- Technical SEO & Performance Optimisation
-- E-commerce Platform Development
-- Project Management & Team Leadership
+- MCP & Analytical Tool Development
+- AI Integration into E-commerce Platforms
+- AI Language Model Training & Development
 
 ---
 
@@ -64,14 +62,6 @@ My expertise spans full-stack development, cloud architecture, and technical SEO
 </div>
 
 ---
-
-## Let's Connect
-
-I'm always interested in discussing:
-- Enterprise software architecture and integration challenges
-- Cloud infrastructure and scalability solutions
-- Technical SEO and performance optimisation strategies
-- Business opportunities and consulting engagements
 
 **Get in touch:**
 - Business inquiries: [Weblifter](https://weblifter.com.au)
