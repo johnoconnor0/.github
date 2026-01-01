@@ -41,11 +41,11 @@ In my work, I blend technical depth with a strong sense of what users actually n
 
 <div align="center">
 
-[![Article 1](https://john-oconnor.vercel.app/api/readme/article-card?index=0&width=1000&height=120&theme=light&v=6)](https://john-oconnor.vercel.app/research)
+[![Article 1](https://john-oconnor.vercel.app/api/readme/article-card?index=0&width=1000&height=120&theme=light&v=7)](https://john-oconnor.vercel.app/api/readme/article-redirect/0)
 
-[![Article 2](https://john-oconnor.vercel.app/api/readme/article-card?index=1&width=1000&height=120&theme=light&v=6)](https://john-oconnor.vercel.app/research)
+[![Article 2](https://john-oconnor.vercel.app/api/readme/article-card?index=1&width=1000&height=120&theme=light&v=7)](https://john-oconnor.vercel.app/api/readme/article-redirect/1)
 
-[![Article 3](https://john-oconnor.vercel.app/api/readme/article-card?index=2&width=1000&height=120&theme=light&v=6)](https://john-oconnor.vercel.app/research)
+[![Article 3](https://john-oconnor.vercel.app/api/readme/article-card?index=2&width=1000&height=120&theme=light&v=7)](https://john-oconnor.vercel.app/api/readme/article-redirect/2)
 
 </div>
 
@@ -55,7 +55,7 @@ In my work, I blend technical depth with a strong sense of what users actually n
 
 | GitHub Stats | GitHub Streak | Top Languages |
 |:---:|:---:|:---:|
-| ![GitHub Stats](https://john-oconnor.vercel.app/api/readme/github-stats?theme=light&show=contributions,commits,prs,stars,repos&width=400&height=195&v=4) | ![GitHub Streak](https://john-oconnor.vercel.app/api/readme/streak?theme=light&width=400&height=195&v=4) | ![Top Languages](https://john-oconnor.vercel.app/api/readme/coding-stats?theme=light&langs_count=6&width=400&height=195&v=4) |
+| ![GitHub Stats](https://john-oconnor.vercel.app/api/readme/github-stats?theme=light&show=contributions,commits,prs,stars,repos&width=400&height=250&v=4) | ![GitHub Streak](https://john-oconnor.vercel.app/api/readme/streak?theme=light&width=400&height=250&v=4) | ![Top Languages](https://john-oconnor.vercel.app/api/readme/coding-stats?theme=light&langs_count=6&width=400&height=250&v=4) |
 
 ---
 
