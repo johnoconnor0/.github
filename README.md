@@ -21,6 +21,7 @@ I’m a web and software developer who enjoys building clean, reliable digital e
 In my work, I blend technical depth with a strong sense of what users actually need. I move between front-end polish and back-end logic, and I take pride in shipping work that’s both robust and easy to evolve. Beyond day-to-day delivery, I’m always looking for smarter patterns, better tooling, and small improvements that compound over time.
 
 **Core Focus Areas:**
+- BI Software & Optimisation Tools
 - Enterprise Software Architecture & Integration
 - Cloud Infrastructure (AWS, Firebase, Azure, GCP)
 - MCP & Analytical Tool Development
@@ -64,7 +65,7 @@ In my work, I blend technical depth with a strong sense of what users actually n
 ---
 
 **Get in touch:**
-- Business inquiries: [Weblifter](https://weblifter.com.au)
+- Business inquiries: [Web Lifter](https://weblifter.com.au)
 - Professional network: [LinkedIn](https://www.linkedin.com/in/john-oconnor0/)
 - Portfolio: [https://john-oconnor.vercel.app](https://john-oconnor.vercel.app)
 
