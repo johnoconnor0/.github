@@ -41,11 +41,11 @@ In my work, I blend technical depth with a strong sense of what users actually n
 
 <div align="center">
 
-[![Article 1](https://john-oconnor.vercel.app/api/readme/article-card?index=0&width=700&height=120&theme=light&v=6)](https://john-oconnor.vercel.app/research)
+[![Article 1](https://john-oconnor.vercel.app/api/readme/article-card?index=0&width=1000&height=120&theme=light&v=6)](https://john-oconnor.vercel.app/research)
 
-[![Article 2](https://john-oconnor.vercel.app/api/readme/article-card?index=1&width=700&height=120&theme=light&v=6)](https://john-oconnor.vercel.app/research)
+[![Article 2](https://john-oconnor.vercel.app/api/readme/article-card?index=1&width=1000&height=120&theme=light&v=6)](https://john-oconnor.vercel.app/research)
 
-[![Article 3](https://john-oconnor.vercel.app/api/readme/article-card?index=2&width=700&height=120&theme=light&v=6)](https://john-oconnor.vercel.app/research)
+[![Article 3](https://john-oconnor.vercel.app/api/readme/article-card?index=2&width=1000&height=120&theme=light&v=6)](https://john-oconnor.vercel.app/research)
 
 </div>
 
